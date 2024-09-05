@@ -18,7 +18,7 @@ Before writing about reflection of typescript, I am a non-native english speaker
 According to StackOverflow’s annual survey, JavaScript ranks first in popularity among developers, with 62.3% preferring it. While TypeScript isn’t ranked at the top, it still enjoys a strong preference at 38.5%. So, what makes TypeScript stand out? Java and C are well-known for their strict static typing systems, which enforce rigid type declarations that don’t change. This provides a high level of safety in code but can be challenging for beginners, as I’ve experienced firsthand.
 
 TypeScript offers a middle ground by introducing static typing to JavaScript, a language that is dynamically typed. Unlike Java and C, TypeScript allows for optional typing, giving developers the flexibility to declare variables without specifying types, though they can also enforce strict types when needed. This flexibility is refreshing compared to the strict rules in Java and C, where every variable must be assigned a specific type and remain consistent. For example, In Java, after variables are declared with a specific type, the type can not change.
-```
+```ruby
 public class Main {
     public static void main(String[] args) {
         int num = 10;
@@ -29,7 +29,7 @@ public class Main {
 
 ```
 In Typescript, we can specify types like Java and C, but we can use 'any' type which offers flexibility.
-```
+```ruby
 let num: number = 10;
 // num = "text"; // Error: Type 'string' is not assignable to type 'number'
 console.log(num);
