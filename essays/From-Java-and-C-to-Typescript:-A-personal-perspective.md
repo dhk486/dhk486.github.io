@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: "From Java and C to Typescript: A personal perspective"
+# All dates must be YYYY-MM-DD format!
 date: 2024-09-04
 published: true
 labels:
