@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "From Java and C to Typescript: A personal perspective"
 date: 2024-09-04
-published: false
+published: true
 labels:
   - Lisp
   - GitHub
