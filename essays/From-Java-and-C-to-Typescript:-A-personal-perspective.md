@@ -6,8 +6,7 @@ title: "From Java and C to Typescript: A personal perspective"
 date: 2024-09-04
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - Typescript
 summary: "Reflect on Typescript."
 ---
 
