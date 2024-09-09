@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/dinosaur/dinosaur.png
+image: img/dinosaur.png
 title: "Dinosaur Run"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-09
