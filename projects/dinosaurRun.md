@@ -8,7 +8,7 @@ date: 2024-09-09
 published: true
 labels:
   - C
-  - 
+  - Game
 summary: "A Simple console-based game inspired by the Google Chrome Dino game."
 ---
 
