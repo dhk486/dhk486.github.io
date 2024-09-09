@@ -26,7 +26,7 @@ This Dinosaur Run is inspired by the Google Chrome Dino game where the player co
   1. The dinosaur's position on the screen changes as it jumps and falls back due to gravity.
   2. The player presses the 'z' key to make the dinosaur jump.
     1 and 2 mechanics are executed by code below:
-    ```
+    ```ruby
     // this Y-coordinate is a constant value for dino position where the dino lands (ground level)
     #define DINO_BOTTOM_Y 12
     ...
@@ -70,7 +70,7 @@ This Dinosaur Run is inspired by the Google Chrome Dino game where the player co
     }
     ```
   3. Trees (obstacles) move from the right side of the screen to the left.
-    ```
+    ```ruby
     #define TREE_BOTTOM_Y 20
     ...
     int treeX = TREE_BOTTOM_X;
@@ -86,7 +86,7 @@ This Dinosaur Run is inspired by the Google Chrome Dino game where the player co
         }
     ```
   4. If the dinosaur collides with a tree, the game ends and displays a "Game Over" message along with the final score.
-    ```
+    ```ruby
      // Collision detection: if tree is close and dino is not high enough, game over
         if (treeX <= 2 && dinoY >= DINO_BOTTOM_Y - 2)
         {
@@ -95,7 +95,7 @@ This Dinosaur Run is inspired by the Google Chrome Dino game where the player co
         }
     ```
   5. As the score increases, the game's speed increases, making it progressively faster. 
-    ```
+    ```ruby
     // Increase game speed (decrease delay) every 10 points, making the game harder
         if (score % 10 == 0 && gameSpeed > 20) {
             gameSpeed -= 2;
