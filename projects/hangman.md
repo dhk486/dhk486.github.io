@@ -21,14 +21,22 @@ This game was created to practice making an array, loop operations and if statem
 When the player starts the game, a random word is chosen from a predefined list of array called 'words' using rand().
 
 The player can see the word, with each letter hidden as an underscore.
+
 <img width="200px" src="../img/hangman.png" >
+
 The player guesses letters, and if the letter that the player entered exists in the word, it is revealed in the correct position. 
+
 <img width="200px" src="../img/correct.png" >
+
 If the player guesses wrong, the visual representation of a stick figure on a gallows (the "hangman") progress.
+
 <img width="200px" src="../img/incorrect.png" >
+
 The game ends when the player either guesses the word correctly or reaches 6 wrong guesses. 
+
 <img width="200px" src="../img/endOfGameFail.png" >
 <img width="200px" src="../img/endOfGameWin.png" >
+
 </pre>
 
 <hr>
