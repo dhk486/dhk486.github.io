@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hangman.png
+image: img/hangman-square.png
 title: "Hangman Game"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-09
