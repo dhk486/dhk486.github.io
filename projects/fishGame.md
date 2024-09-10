@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/fishGame.jpg
-title: "Fish Game"
+title: "Aloha Fish Master"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-09
 published: true
@@ -12,49 +12,44 @@ labels:
 summary: "A text-based game I developed for ICS 211."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/fishGamePoster.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Aloha Fish Master is a Text-based Game for two players. The game is held for 12 months. Each player has 3 chances of catching fish in each month and they can use one of 5 methods: 'net', 'pole', 'spear', 'thow net', 'trap'.
 
 To give you a flavor of the game, here is an excerpt from one run:
 
 <hr>
 
 <pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+Code Information: 
+  
+  <img width="200px" src="../img/codeInfo.jpg">
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+  The picture above is a hierarchy of the Game. Describe the code briefly, 
+  I_a is an abstract superclass for fall fish species. This is the backbone of all nethods which share with its subclass: Anae, Moi, Uhu, and Weke_a/Weke_ula.
+  Fishable is Interface for I_a fish hierarchy.
+  Anae, Moi, Uhu, Weke_a/ Weke_ula are subclasses creating each fish data.
+  FishDriver is the driver class for the game. To prevent poor readability, Inpur codes and output codes are created as independent classes then instantiated in FishDriver class. 
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+  Visual of Game:
+  When one player starts the game, they would see menu like below:
 
-pickup candle
-- you are now carrying the candle -
+  <img width="200px" src="../img/visual1.jpg">
 
-pickup match
-- you are now carrying the match -
+  Then The player can choose a method to catch fish.
 
-light match candle
+  <img width="200px" src="../img/visual2.jpg">
 
-The candle is now lit. It illuminates everything in the room.
+  Information of fish they caught is shown on the screen and they will be asked to see rules about fishing. Some fish has legal minimum size that players allow to catch. If a player put into illegal size of fish into their sack, all of fish they have catched would be confiscated. Players always see the legality on the menu.
 
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
+  <img width="200px" src="../img/visual3.jpg">
+
+  Once 12 months of turns are taken, the player whose sum of the 3 largest fish' lengths is greater will be the winner of the game.
+
+  <img width="200px" src="../img/visual4.jpg">
+  
 </pre>
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: 
