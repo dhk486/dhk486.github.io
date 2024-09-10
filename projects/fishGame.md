@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/fishGame.jpg
+image: img/fishGame-square.jpg
 title: "Aloha Fish Master"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-09
