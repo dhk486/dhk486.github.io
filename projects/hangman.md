@@ -14,44 +14,23 @@ summary: "A Simple world-guessing game."
 
 <img class="img-fluid" src="../img/hangman_header.png">
 
-This is a Hangman Game, a simple word-guessing game where the player tries to guess a hidden word letter by letter. The player has a limited number of incorrect guesses before losing the game. This game is created with array, loop operations, and 
+This is a Hangman Game, a simple word-guessing game where the player tries to guess a hidden word letter by letter. The player has a limited number of incorrect guesses before losing the game. This game is created with array, loop operations, and if statements. 
+
+This game was created to practice making an array, loop operations and if statements. 
 <hr>
+When the player starts the game, a random word is chosen from a predefined list of array called 'words' using rand().
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
+The player can see the word, with each letter hidden as an underscore.
+<img width="200px" src="../img/hangman.png" >
+The player guesses letters, and if the letter that the player entered exists in the word, it is revealed in the correct position. 
+<img width="200px" src="../img/correct.png" >
+If the player guesses wrong, the visual representation of a stick figure on a gallows (the "hangman") progress.
+<img width="200px" src="../img/incorrect.png" >
+The game ends when the player either guesses the word correctly or reaches 6 wrong guesses. 
+<img width="200px" src="../img/endOfGameFail.png" >
+<img width="200px" src="../img/endOfGameWin.png" >
 </pre>
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source:
