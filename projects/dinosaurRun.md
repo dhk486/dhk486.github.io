@@ -16,7 +16,7 @@ summary: "A Simple console-based game inspired by the Google Chrome Dino game."
 
 
 <img class="img-fluid" src="../img/dino_header.png">
-
+## Brief self introduction: 
 Dinosaur Run is a simple console-based game I developed using several functions and ASCII art to practice C language. 
 
 I made this code in C language to improve understanding C language I have learned in ICS 212. I am interested in creating game and C language is a major language when people create a game. I wanted to learn and practice how a simple game can be made in C language. I got resource of making a simple run game from YouTube. 
