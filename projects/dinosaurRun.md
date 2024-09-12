@@ -15,7 +15,7 @@ summary: "A Simple console-based game inspired by the Google Chrome Dino game."
 ---
 
 
-<img class="img-fluid" src="../img/dino_header.png">
+<img class="img-fluid" src="../img/dinosaurRunGif.gif">
 ## Brief self introduction: 
 Dinosaur Run is a simple console-based game I developed using several functions and ASCII art to practice C language. 
 
