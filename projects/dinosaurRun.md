@@ -9,6 +9,8 @@ published: true
 labels:
   - C
   - Game
+  - Console
+  - ASCII Art
 summary: "A Simple console-based game inspired by the Google Chrome Dino game."
 ---
 
