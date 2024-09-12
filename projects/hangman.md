@@ -8,7 +8,9 @@ date: 2024-09-09
 published: true
 labels:
   - C
-  - Game
+  - Console Game
+  - Game Development
+  - Random Word Generation
 summary: "A Simple world-guessing game."
 ---
 
