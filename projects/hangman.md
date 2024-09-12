@@ -33,6 +33,10 @@ This game was created to practice making an array, loop operations and if statem
 * Hangman Drawing:
   **score() function displays a hangman graphic that evolves with each incorrect guess, providing visual feedback on the player's performance.
 
+<hr>
+
+## Gameplay Demonstration
+
 When the player starts the game, a random word is chosen from a predefined list of array called 'words' using rand().
 
 The player can see the word, with each letter hidden as an underscore.
@@ -50,10 +54,10 @@ If the player guesses wrong, the visual representation of a stick figure on a ga
 The game ends when the player either guesses the word correctly or reaches 6 wrong guesses. 
 
 <img width="200px" src="../img/endOfGameFail.png" >
-<img width="200px" src="../img/endOfGameWin.png" >
-
-</pre>
+<img width="300px" src="../img/endOfGameWin.png" >
 
 <hr>
 
-Source:
+## Lessons learned from this project
+
+Developing the Hangman game sharpened my skills in C programming, especially in handling strings and implementing basic syntax. I gained practical experience in game mechanics, including user input, random word selection, and managing game state. The project improved my understanding of randomization and game logic, as well as my ability to create visual feedback using ASCII art. I also enhanced my debugging skills through troubleshooting and iterative development.
