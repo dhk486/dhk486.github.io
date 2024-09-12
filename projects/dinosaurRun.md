@@ -34,6 +34,7 @@ This project is a console-based game inspired by the Google Dinosaur game, devel
 ## Code Highlights
 
 Some mechanics that the game has are described with the following codes:
+
 **_1. Jumping Mechanism_**
 
   The code implements a simple but effective jump mechanic for the dinosaur using the **GetKeyDown()** function and the **isJumping** flag. When the player presses the 'z' key, the dinosaur jumps and gravity pulls it back down.
