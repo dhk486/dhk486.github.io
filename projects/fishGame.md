@@ -18,7 +18,7 @@ summary: "A text-based game I developed with group memembers for ICS 211."
 
 ## Project Summary
 
-This **_Aloha Fish Master_** is a group project assignment when I was taking ICS 211 at Kapiolani Community College in Fall 2023. Each member is supposed to complete an Object Oriented Class hierarchy modeling Hawaiian Fish famillies. In this project, we have the given **_I_a abstract super class_** and implemented three fish types: **_'Ama'ama Family, Weke Family, Uhu Family_**. Then, we built a 2 players text-baded fishing tournament game program using **_I_a object classes_**. My task was implementing **_Uhu Family_** which has **_Ohua Class_**, **_Panuhunuhu Class_**, **_Uhu Class_**. Also, I designed the poster of our project. 
+This **_Aloha Fish Master_** project was a group assignment I completed during the ICS 211 course at Kapiolani Community College in Fall 2023. Each team member was responsible for developing an Object-Oriented Class hierarchy representing Hawaiian fish families. We were given the **_I'a_** abstract superclass and tasked with implementing three specific fish families: **_'Ama'ama Family, Weke Family, and Uhu Family_**. The project culminated in a two-player, text-based fishing tournament game that utilized the **_I'a_* object classes. My role focused on implementing the **_Uhu Family_**, which included the **_Ohua Class, Panuhunuhu Class, and Uhu Class_**. Additionally, I designed the project poster. 
 
 <hr>
 
@@ -35,10 +35,10 @@ To give you a flavor of the game, here is an excerpt from one run:
   <img width="600px" src="../img/codeInfo.jpg">
 
   The picture above is a hierarchy of the Game. Describe the code briefly, 
-  I_a is an abstract superclass for fall fish species. This is the backbone of all nethods which share with its subclass: Anae, Moi, Uhu, and Weke_a/Weke_ula.
-  Fishable is Interface for I_a fish hierarchy.
-  Anae, Moi, Uhu, Weke_a/ Weke_ula are subclasses creating each fish data.
-  FishDriver is the driver class for the game. To prevent poor readability, Inpur codes and output codes are created as independent classes then instantiated in FishDriver class. 
+  * I_a is an abstract superclass for fall fish species. This is the backbone of all nethods which share with its subclass: Anae, Moi, Uhu, and Weke_a/Weke_ula.
+  * Fishable is Interface for I_a fish hierarchy.
+  * Anae, Moi, Uhu, Weke_a/ Weke_ula are subclasses creating each fish data.
+  * FishDriver is the driver class for the game. To prevent poor readability, Inpur codes and output codes are created as independent classes then instantiated in FishDriver class. 
 
 <hr>
 
@@ -62,9 +62,5 @@ To give you a flavor of the game, here is an excerpt from one run:
 
 <hr>
 
-  
-</pre>
-
-<hr>
-
-Source: 
+## What I learn from this project:
+Through the development of the **_Aloha Fish Master_** game, I gained deeper understanding of Object-Oriented Programming (OOP) principles, such as class hierarchies, encapsulation, and polymorphism. I worked with abstract classes, like the I’a superclass, and learned how to implement inheritance effectively by creating specific fish families. Additionally, I practiced composing a clean class structure, enhancing my skills in designing and managing complex relationships between objects. Building a text-based game introduced me to core game development concepts, such as managing turn-based logic, handling user inputs, and tracking the game state for two players. This project also strengthened my problem-solving abilities, as I had to debug various game mechanics and design an intuitive player experience.
