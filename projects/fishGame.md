@@ -62,5 +62,5 @@ To give you a flavor of the game, here is an excerpt from one run:
 
 <hr>
 
-## What I learn from this project:
+## Lessons learned from this project:
 Through the development of the **_Aloha Fish Master_** game, I gained deeper understanding of Object-Oriented Programming (OOP) principles, such as class hierarchies, encapsulation, and polymorphism. I worked with abstract classes, like the I’a superclass, and learned how to implement inheritance effectively by creating specific fish families. Additionally, I practiced composing a clean class structure, enhancing my skills in designing and managing complex relationships between objects. Building a text-based game introduced me to core game development concepts, such as managing turn-based logic, handling user inputs, and tracking the game state for two players. This project also strengthened my problem-solving abilities, as I had to debug various game mechanics and design an intuitive player experience.
