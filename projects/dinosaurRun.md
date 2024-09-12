@@ -95,5 +95,3 @@ if (score % 10 == 0 && gameSpeed > 20) {
 ## Challenges and what I learn
 
 One of the challenges was implementing jump mechanics with limited console graphics. Through this project, I learned more about controlling character movement and game loops in a simple C-based game.
-
-Source: 
