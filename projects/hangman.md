@@ -16,10 +16,23 @@ summary: "A Simple world-guessing game."
 
 <img class="img-fluid" src="../img/hangman_header.png">
 
-This is a Hangman Game, a simple word-guessing game where the player tries to guess a hidden word letter by letter. The player has a limited number of incorrect guesses before losing the game. This game is created with array, loop operations, and if statements. 
+## Project Description
+
+The Hangman game is a classic word-guessing game implemented in C. This console-based version challenges players to guess a hidden word by suggesting letters within a limited number of incorrect guesses. The game features a visual representation of the hangman that progresses with each incorrect guess, adding a fun and interactive element to the gameplay.
 
 This game was created to practice making an array, loop operations and if statements. 
+
 <hr>
+
+## Features
+
+* Word Selection :
+  The game randomly selects a word  from a predefined list of 25 words, including various animals such as "dog," "cat," and "tiger."
+* Gameplay Mechanics:
+  Players guess letters to reveal parts of the hidden word. Correct guesses show the letter in its correct position, while incorrect guesses increase the number of mistakes.
+* Hangman Drawing:
+  **score() function displays a hangman graphic that evolves with each incorrect guess, providing visual feedback on the player's performance.
+
 When the player starts the game, a random word is chosen from a predefined list of array called 'words' using rand().
 
 The player can see the word, with each letter hidden as an underscore.
