@@ -7,6 +7,8 @@ date: 2024-09-04
 published: true
 labels:
   - Typescript
+  - Java
+  - C
 summary: "Reflect on Typescript."
 ---
 
