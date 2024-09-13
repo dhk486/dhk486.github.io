@@ -55,6 +55,8 @@ The user provides a clear title describing directly the issue they have. They sp
 
 ## A Not So Smart Question:
 
+If we see this question at StackOverflow, this question got a minus vote, indicating that the question does not show any research effort. The user asks: ["Private props return unmodified or losing values within the class inside scope or usage?"](https://stackoverflow.com/questions/78959669/private-props-return-unmodified-or-losing-values-within-the-class-inside-scope-o) This title is confusing and difficult to understand. It is unclear what the problem is about, as it uses vague phrases like "return unmodified" and "losing values." While the asker provides some code snippets, they don’t explain what the code is supposed to do, how it behaves incorrectly, or what kind of error they’re encountering. The question hasn’t received detailed or helpful answers. One response asks for clarification, which indicates that the original question isn’t clear enough for others to provide a meaningful answer.
+
 <pre>
 
 Question: Private props return unmodified or losing values within the class inside scope or usage?
@@ -129,8 +131,6 @@ Passing an array like argument and returning it back, like this? Or something el
               }      
              
 </pre>
-
-If we see this question at StackOverflow, this question got a minus vote, indicating that the question does not show any research effort. The user asks: ["Private props return unmodified or losing values within the class inside scope or usage?"](https://stackoverflow.com/questions/78959669/private-props-return-unmodified-or-losing-values-within-the-class-inside-scope-o) This title is confusing and difficult to understand. It is unclear what the problem is about, as it uses vague phrases like "return unmodified" and "losing values." While the asker provides some code snippets, they don’t explain what the code is supposed to do, how it behaves incorrectly, or what kind of error they’re encountering. The question hasn’t received detailed or helpful answers. One response asks for clarification, which indicates that the original question isn’t clear enough for others to provide a meaningful answer.
 
 <hr>
 
