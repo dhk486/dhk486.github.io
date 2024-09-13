@@ -32,7 +32,7 @@ I setup global namespaces for my objects by explicitly setting a property on win
 
 TypeScript underlines MyNamespace and complains that:
 
->The property 'MyNamespace' does not exist on value of type 'window' any"
+> The property 'MyNamespace' does not exist on value of type 'window' any"
 
 I can make the code work by declaring MyNamespace as an ambient variable and dropping the window explicitness but I don't want to do that.
 
@@ -113,6 +113,7 @@ Each method of my entity is covered with bind decorator from npm: bind-decorator
            this.props1 = [test1, test2, test3];
           }
         }
+            
 So my questions here are about explaining why context is lost during calling of methodChild within the methodMother and how is my getter return an unmodified array of props1?
 
 How does it work, and what should I do to avoid it?
@@ -128,8 +129,6 @@ Passing an array like argument and returning it back, like this? Or something el
               }      
              
 </pre>
-
---- 
 
 If we see this question at StackOverflow, this question got a minus vote, indicating that the question does not show any research effort. The user asks: ["Private props return unmodified or losing values within the class inside scope or usage?"](https://stackoverflow.com/questions/78959669/private-props-return-unmodified-or-losing-values-within-the-class-inside-scope-o) This title is confusing and difficult to understand. It is unclear what the problem is about, as it uses vague phrases like "return unmodified" and "losing values." While the asker provides some code snippets, they don’t explain what the code is supposed to do, how it behaves incorrectly, or what kind of error they’re encountering. The question hasn’t received detailed or helpful answers. One response asks for clarification, which indicates that the original question isn’t clear enough for others to provide a meaningful answer.
 
