@@ -131,3 +131,4 @@ If we see this question at StackOverflow, this question got a minus vote, indica
 ## Conclusion:
 
 This exercise has highlighted the importance of asking smart questions in software engineering. The question "How do you explicitly set a new property on window in TypeScript?" shows how clarity, focus, and context lead to detailed and helpful responses. In contrast, the vague and unfocused question "Private props return unmodified or losing values..." demonstrates how poor communication results in minimal or unhelpful answers. Smart questions not only respect the time of others but also lead to quicker, more accurate solutions. This comparison has reinforced the importance of clear, concise communication, which I will apply in future interactions with the developer community.
+
