@@ -46,10 +46,7 @@ As a side note I find it especially funny that TypeScript complains since it tel
   
 ```
 
----
-
 The user provides a clear title describing directly the issue they have. They specifically ask about adding a new property to the windows object in Typescript. As Raymond mentioned, the asker describes their clear goal and the problems’s symptoms. They provide context, including an explanation of what they are trying to do and the error message they are receiving. They also include a code snippet, which is a great way to give others the necessary information to reproduce the issue. In addition, the asker presents their question in a respectful manner without demanding an immediate response. This shows the importance of politeness when we want to ask a smart question. 
-
 
 <hr>
 
