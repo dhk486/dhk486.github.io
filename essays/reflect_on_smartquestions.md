@@ -114,7 +114,7 @@ Each method of my entity is covered with bind decorator from npm: bind-decorator
         }
 So my questions here are about explaining why context is lost during calling of methodChild within the methodMother and how is my getter return an unmodified array of props1?
 
-## How does it work, and what should I do to avoid it?
+How does it work, and what should I do to avoid it?
 
 Passing an array like argument and returning it back, like this? Or something else, like makign them anonymous?
             
