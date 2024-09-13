@@ -11,17 +11,20 @@ labels:
   - stackoverflow
 summary: "Reflection on smart questions."
 ---
+<hr>
 
 ## Introduction: 
+
 One of the most important communication skills for a software engineer is the ability to ask questions in a "smart" way. Eric Raymond, in his essay How to Ask Questions the Smart Way, outlines several guidelines that help developers ask well-formulated questions, leading to efficient and effective help. This reflection explores two questions from StackOverflow—one that demonstrates a "smart" way of asking questions and another that exemplifies the "not-so-smart" approach. By analyzing these questions and their outcomes, I gained a deeper understanding of the impact smart questions can have on software development.
 
 <hr>
 
 ## A Smart Question:   
+
 The user asks: ["How do you explicitly set a new property on window in TypeScript?"](https://stackoverflow.com/questions/12709074/how-do-you-explicitly-set-a-new-property-on-window-in-typescript) They explain they want to add a property to the window object in TypeScript but are getting errors due to TypeScript's strict type system. They provide an example of the error and the code they are working with.
 
 <pre>
-
+ 
 Question: How do you explicitly set a new property on window in TypeScript?
   
 I setup global namespaces for my objects by explicitly setting a property on window.
@@ -45,6 +48,7 @@ As a side note I find it especially funny that TypeScript complains since it tel
 </pre>
 
 The user provides a clear title describing directly the issue they have. They specifically ask about adding a new property to the windows object in Typescript. As Raymond mentioned, the asker describes their clear goal and the problems’s symptoms. They provide context, including an explanation of what they are trying to do and the error message they are receiving. They also include a code snippet, which is a great way to give others the necessary information to reproduce the issue. In addition, the asker presents their question in a respectful manner without demanding an immediate response. This shows the importance of politeness when we want to ask a smart question. 
+
 
 <hr>
 
@@ -121,10 +125,11 @@ Passing an array like argument and returning it back, like this? Or something el
 
                   return arg;
               }      
-                
+             
 </pre>
 
 If we see this question at StackOverflow, this question got a minus vote, indicating that the question does not show any research effort. The user asks: ["Private props return unmodified or losing values within the class inside scope or usage?"](https://stackoverflow.com/questions/78959669/private-props-return-unmodified-or-losing-values-within-the-class-inside-scope-o). This title is confusing and difficult to understand. It is unclear what the problem is about, as it uses vague phrases like "return unmodified" and "losing values." While the asker provides some code snippets, they don’t explain what the code is supposed to do, how it behaves incorrectly, or what kind of error they’re encountering. The question hasn’t received detailed or helpful answers. One response asks for clarification, which indicates that the original question isn’t clear enough for others to provide a meaningful answer.
+
 
 <hr>
 
