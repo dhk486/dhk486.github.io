@@ -60,7 +60,8 @@ If we see this question at StackOverflow, this question got a minus vote, indica
 ```
 
 Question: Private props return unmodified or losing values within the class inside scope or usage?
-So, I have two classes service-class & entity-class with private constructor & static async method, for creating new instance of class. My service-class create & call new entity-class instance and modified it with its properties.
+So, I have two classes service-class & entity-class with private constructor & static async method, for creating new instance of class. My service-class create & 
+    call new entity-class instance and modified it with its properties.
 
 Example | This is NOT NEST.JS code:
         class Service {
@@ -116,7 +117,8 @@ Each method of my entity is covered with bind decorator from npm: bind-decorator
           }
         }
             
-So my questions here are about explaining why context is lost during calling of methodChild within the methodMother and how is my getter return an unmodified array of props1?
+So my questions here are about explaining why context is lost during calling of methodChild within the methodMother and how is my getter return an unmodified 
+   array of props1?
 
 How does it work, and what should I do to avoid it?
 
