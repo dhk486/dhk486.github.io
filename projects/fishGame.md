@@ -18,7 +18,7 @@ summary: "A text-based game I developed with group memembers for ICS 211."
 
 ## Project Summary
 
-This **_Aloha Fish Master_** project was a group assignment I completed during the ICS 211 course at Kapiolani Community College in Fall 2023. Each team member was responsible for developing an Object-Oriented Class hierarchy representing Hawaiian fish families. We were given the **_I'a_** abstract superclass and tasked with implementing three specific fish families: **_'Ama'ama Family, Weke Family, and Uhu Family_**. The project culminated in a two-player, text-based fishing tournament game that utilized the **_I'a_* object classes. My role focused on implementing the **_Uhu Family_**, which included the **_Ohua Class, Panuhunuhu Class, and Uhu Class_**. Additionally, I designed the project poster. 
+This **_Aloha Fish Master_** project was a group assignment I completed during the ICS 211 course at Kapiolani Community College in Fall 2023. Each team member was responsible for developing an Object-Oriented Class hierarchy representing Hawaiian fish families. We were given the **_I'a_** abstract superclass and tasked with implementing three specific fish families: **_'Ama'ama Family, Weke Family, and Uhu Family_**. The project culminated in a two-player, text-based fishing tournament game that utilized the **_I'a_* object classes. My role focused on implementing the **_Uhu Family_**, which included the **_Ohua Class, Panuhunuhu Class, and Uhu Class_**. Additionally, I was responsible to design the project poster. As out fish game is a text-based, I designed pixel art poster. 
 
 <hr>
 
