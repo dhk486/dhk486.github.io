@@ -23,4 +23,4 @@ This week, I started using VSCode along with ESLint, and my first impression was
 <hr>
 
 ## Conclusion:
-
+In conclusion, while coding standards and tools like ESLint significantly enhance code quality and ensure consistency, from my perspective, it’s crucial to go beyond these tools and be diligent in studying and reading code to gain a deeper understanding of programming language. 
