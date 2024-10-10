@@ -21,7 +21,7 @@ In addition, UI frameworks like Bootstrap provide significant time-saving benefi
 
 ## Comparison of Web Pages Built With and Without a UI Framework:   
 When I first began learning Bootstrap, I created two versions of a simple webpage: one using raw HTML and CSS, and the other using Bootstrap. The first webpage, built with only HTML and CSS, had basic typography and alignment. I had to manually set background, margins, and aligns.
-<img src="../img/htmlandcss.png">
+<img class="image-fluid" src="../img/htmlandcss.png">
 The second version, built using Bootstrap, looked much more polished and professional, even though it required far less code. 
 <img src="../img/bootstrapexample.png">
 By utilizing Bootstrap’s grid system and pre-designed components, I was able to create a well-structured and visually appealing webpage with minimal effort. This comparison highlights how much easier and more efficient it is to use a UI framework to achieve high-quality results.
