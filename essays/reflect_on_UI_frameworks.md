@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "From Chaos to Clarity: The Impact of Coding Standards on Development"
+title: "Building with Bootstrap: Efficiency Meets Elegance in Web Development"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-09
 published: true
@@ -21,13 +21,21 @@ In addition, UI frameworks like Bootstrap provide significant time-saving benefi
 
 ## Comparison of Web Pages Built With and Without a UI Framework:   
 When I first began learning Bootstrap, I created two versions of a simple webpage: one using raw HTML and CSS, and the other using Bootstrap. The first webpage, built with only HTML and CSS, had basic typography and alignment. I had to manually set background, margins, and aligns.
-<img src="">
+<img src="../img/htmlandcss.png">
 The second version, built using Bootstrap, looked much more polished and professional, even though it required far less code. 
-<img src="">
+<img src="../img/bootstrapexample.png">
 By utilizing Bootstrap’s grid system and pre-designed components, I was able to create a well-structured and visually appealing webpage with minimal effort. This comparison highlights how much easier and more efficient it is to use a UI framework to achieve high-quality results.
 
 
 <hr>
 
+## Software Engineering Benefits of UI Frameworks:
+What are the pros and cons of using a UI framework? One of the most significant advantages is its cross-browser compatibility. Bootstrap has been rigorously tested across all major browsers, ensuring that websites built with it render consistently, no matter the platform. This eliminates the need for developers to write custom CSS rules to address browser-specific quirks, a common challenge when working with raw HTML and CSS. 
+On the other hand, developers seeking to create highly unique and customized web pages may prefer to write their own CSS to have full control over the design. Additionally, while Bootstrap simplifies the process of building complex layouts compared to writing CSS from scratch, it still comes with a learning curve, especially for beginners unfamiliar with its class-based system.
+I personally encountered this learning curve when rebuilding an existing web page. Although using pre-built components generally saves time, it can become tricky when something goes wrong, and I’m unsure how to fix it. Combining more complex components was particularly challenging for me, as understanding how they interact requires a deeper familiarity with the framework.
+
+<hr>
+
 ## Conclusion:
-In conclusion, while coding standards and tools like ESLint significantly enhance code quality and ensure consistency, from my perspective, it’s crucial to go beyond these tools and be diligent in studying and reading code to gain a deeper understanding of programming language. 
+In conclusion, UI frameworks like Bootstrap 5 offer significant advantages in terms of time efficiency and design consistency. These benefits, coupled with the professional and polished results they deliver, make them an invaluable tool for developers, whether they are working on group projects or large-scale applications.
+
