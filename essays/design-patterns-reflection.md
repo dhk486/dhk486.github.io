@@ -1,9 +1,14 @@
 ---
+layout: essay
+type: essay
 title: "What Makes Good Code?"
-layout: post
+# All dates mush be YYYY-MM-DD format!
 date: 2024-12-04
-categories: ["Essays", "Design Patterns"]
-tags: ["Software Engineering", "Design Patterns", "Musicians of Manoa"]
+published: true
+labels:
+  - Design Patterns
+  - Software Engineering
+summary: "Reflection on Design Patterns"
 ---
 
 # **What Makes Good Code?**
