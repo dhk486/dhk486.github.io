@@ -110,3 +110,6 @@ In the future, I want to apply design patterns more intentionally in my projects
 Through this project, I learned that design patterns are not just theoretical ideas. They are practical tools that can improve my coding and help me grow as a developer.
 
 ---
+
+**Attribution:**  
+This essay was written based on my personal experience and understanding. Grammar and formatting assistance were provided using ChatGPT to ensure clarity and correctness.
