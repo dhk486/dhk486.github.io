@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "What Makes Good Code?"
 # All dates mush be YYYY-MM-DD format!
-date: 2024-12-04
+date: 2024-12-02
 published: true
 labels:
   - Design Patterns
@@ -29,7 +29,7 @@ Design patterns are especially useful in **team projects**. When working with ot
 
 ## **My Experience with Design Patterns**
 
-Currently, I am working as the frontend developer for a project called **"Musicians of Manoa"**. 
+Currently, I am working as the frontend developer for a project called **"Musicians of Manoa"**. The team leader came up the idea, Design of team project below and other members including me added own ideas on to the design. 
 
 <div style="display: flex; justify-content: space-around;">
   <img src="/img/musician_of_manoa.png" alt="Musicians of Manoa Design" width="600px">
