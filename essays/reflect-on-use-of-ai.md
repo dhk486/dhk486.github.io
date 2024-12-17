@@ -14,7 +14,7 @@ summary: "Reflection on Use of AI"
 ---
 
 <div align="center">
-  <img src="ai.jpg" alt="AI Image" width="50%">
+  <img src="/img/ai.jpg" alt="AI Image" width="50%">
 </div>
 
 ## Introduction  
