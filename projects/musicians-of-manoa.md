@@ -25,6 +25,7 @@ summary: "A web application designed to connect musicians at UH Manoa"
 <img class="img-fluid" src="../img/musicians-of-manoa.png" alt="Musicians of Manoa WebPage">
 </div>
 
+
 ## About the Project
 Musicians of Manoa is a web application developed as part of a team project in the ICS 314: Software Engineering course at the University of Hawaii at Manoa. The application aims to create a platform where UH Manoa musicians can easily connect, discover jam sessions, and collaborate with one another.
 
