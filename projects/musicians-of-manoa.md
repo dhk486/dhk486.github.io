@@ -43,5 +43,5 @@ This project enhanced my skills in full-stack web development, teamwork, and bui
 ## Links
 - [**Homepage**](https://musicians-of-manoa.github.io/)
 - [**Live Application**](https://musicians-of-manoa.vercel.app/)
-- [**Source Code**](https://github.com/manoa-bites/manoa-bites)
+- [**Source Code**](https://github.com/musicians-of-manoa/musicians-of-manoa)
 
