@@ -12,7 +12,7 @@ labels:
 summary: "Reflection on Software Engineering"
 ---
 
-# **Agile and Organized: My Journey in Software Engineering**
+# **Reflection on Software Engineering**
 
 ## Introduction
 Through the Final Project of ICS 314, I was able to learn not only how to develop web applications but also the fundamental concepts of software engineering. The project I participated in aimed to create a webpage that allows musicians on the UH Manoa campus to network easily. During this process, I had the opportunity to practice various software engineering concepts through collaboration with my team members. In this essay, I would like to share my experiences with Agile Project Management and Configuration Management during this project.
