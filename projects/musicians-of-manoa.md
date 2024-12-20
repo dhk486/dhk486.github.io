@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/musicians-of-manoa-logo.png
+image: img/musicians-of-manoa-logo.png
 title: "Musicians of Manoa"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-19
