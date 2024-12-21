@@ -12,6 +12,10 @@ labels:
 summary: "EC: Experience IDPM Effort Estimation and Tracking"
 ---
 
+<div style="display: flex; justify-content: space-around;">
+  <img src="/img/estimation.png" alt="Effort Estimation" width="600px">
+</div>
+
 # What is IDPM and Effort Estimation?
 
 Issue-Driven Project Management (IDPM) is about managing tasks by focusing on specific issues. This method is good for organizing and completing projects. Effort estimation is important because it helps to predict how much time, resources, and work are needed for tasks. It also helps teams set goals, find risks, and make better plans.
